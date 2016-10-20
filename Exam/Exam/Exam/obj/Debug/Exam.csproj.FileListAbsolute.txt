@@ -1,0 +1,13 @@
+C:\Users\student.STEP\Desktop\Exam\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\student.STEP\Desktop\Exam\Exam\Exam\bin\Debug\Exam.exe
+C:\Users\student.STEP\Desktop\Exam\Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\student.STEP\Desktop\Exam\Exam\Exam\bin\Debug\EntityFramework.dll
+C:\Users\student.STEP\Desktop\Exam\Exam\Exam\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student.STEP\Desktop\Exam\Exam\Exam\bin\Debug\EntityFramework.xml
+C:\Users\student.STEP\Desktop\Exam\Exam\Exam\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student.STEP\Desktop\Exam\Exam\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+C:\Users\student.STEP\Desktop\Exam\Exam\Exam\obj\Debug\Exam.Form1.resources
+C:\Users\student.STEP\Desktop\Exam\Exam\Exam\obj\Debug\Exam.Properties.Resources.resources
+C:\Users\student.STEP\Desktop\Exam\Exam\Exam\obj\Debug\Exam.csproj.GenerateResource.Cache
+C:\Users\student.STEP\Desktop\Exam\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\student.STEP\Desktop\Exam\Exam\Exam\obj\Debug\Exam.pdb

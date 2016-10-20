@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.WinForm", "Shop.WinForm\Shop.WinForm.csproj", "{71E7D1BD-BE23-48A8-AC90-87DC3AC44F2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.DataLayer", "Shop.DataLayer\Shop.DataLayer.csproj", "{41CFBFE1-9932-48DC-8EBB-D9832A4BCDCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.LinqLeftJoin3Entity", "Shop.LinqLeftJoin3Entity\Shop.LinqLeftJoin3Entity.csproj", "{827AE9E9-FC8E-448A-AA1C-00FA8A16B463}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71E7D1BD-BE23-48A8-AC90-87DC3AC44F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E7D1BD-BE23-48A8-AC90-87DC3AC44F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E7D1BD-BE23-48A8-AC90-87DC3AC44F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E7D1BD-BE23-48A8-AC90-87DC3AC44F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41CFBFE1-9932-48DC-8EBB-D9832A4BCDCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41CFBFE1-9932-48DC-8EBB-D9832A4BCDCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41CFBFE1-9932-48DC-8EBB-D9832A4BCDCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41CFBFE1-9932-48DC-8EBB-D9832A4BCDCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{827AE9E9-FC8E-448A-AA1C-00FA8A16B463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{827AE9E9-FC8E-448A-AA1C-00FA8A16B463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{827AE9E9-FC8E-448A-AA1C-00FA8A16B463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{827AE9E9-FC8E-448A-AA1C-00FA8A16B463}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

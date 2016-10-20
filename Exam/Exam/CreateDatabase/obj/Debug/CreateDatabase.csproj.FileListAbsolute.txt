@@ -1,0 +1,6 @@
+C:\Users\student.STEP\Desktop\Exam\Exam\CreateDatabase\bin\Debug\CreateDatabase.exe.config
+C:\Users\student.STEP\Desktop\Exam\Exam\CreateDatabase\bin\Debug\CreateDatabase.exe
+C:\Users\student.STEP\Desktop\Exam\Exam\CreateDatabase\bin\Debug\CreateDatabase.pdb
+C:\Users\student.STEP\Desktop\Exam\Exam\CreateDatabase\obj\Debug\CreateDatabase.exe
+C:\Users\student.STEP\Desktop\Exam\Exam\CreateDatabase\obj\Debug\CreateDatabase.pdb
+C:\Users\student.STEP\Desktop\Exam\Exam\CreateDatabase\obj\Debug\CreateDatabase.csprojResolveAssemblyReference.cache

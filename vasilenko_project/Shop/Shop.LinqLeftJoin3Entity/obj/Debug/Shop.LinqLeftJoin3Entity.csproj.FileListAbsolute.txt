@@ -1,0 +1,12 @@
+D:\ado.net\vasilenko_project\Shop\Shop.LinqLeftJoin3Entity\bin\Debug\Shop.LinqLeftJoin3Entity.exe.config
+D:\ado.net\vasilenko_project\Shop\Shop.LinqLeftJoin3Entity\bin\Debug\Shop.LinqLeftJoin3Entity.exe
+D:\ado.net\vasilenko_project\Shop\Shop.LinqLeftJoin3Entity\bin\Debug\Shop.LinqLeftJoin3Entity.pdb
+D:\ado.net\vasilenko_project\Shop\Shop.LinqLeftJoin3Entity\bin\Debug\EntityFramework.dll
+D:\ado.net\vasilenko_project\Shop\Shop.LinqLeftJoin3Entity\bin\Debug\EntityFramework.SqlServer.dll
+D:\ado.net\vasilenko_project\Shop\Shop.LinqLeftJoin3Entity\bin\Debug\Shop.DataLayer.dll
+D:\ado.net\vasilenko_project\Shop\Shop.LinqLeftJoin3Entity\bin\Debug\Shop.DataLayer.pdb
+D:\ado.net\vasilenko_project\Shop\Shop.LinqLeftJoin3Entity\bin\Debug\EntityFramework.xml
+D:\ado.net\vasilenko_project\Shop\Shop.LinqLeftJoin3Entity\bin\Debug\EntityFramework.SqlServer.xml
+D:\ado.net\vasilenko_project\Shop\Shop.LinqLeftJoin3Entity\obj\Debug\Shop.LinqLeftJoin3Entity.csprojResolveAssemblyReference.cache
+D:\ado.net\vasilenko_project\Shop\Shop.LinqLeftJoin3Entity\obj\Debug\Shop.LinqLeftJoin3Entity.exe
+D:\ado.net\vasilenko_project\Shop\Shop.LinqLeftJoin3Entity\obj\Debug\Shop.LinqLeftJoin3Entity.pdb

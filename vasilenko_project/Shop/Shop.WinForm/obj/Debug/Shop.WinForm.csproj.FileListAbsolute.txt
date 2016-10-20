@@ -1,0 +1,47 @@
+D:\WinForms\Shop\Shop.WinForm\bin\Debug\Shop.WinForm.exe.config
+D:\WinForms\Shop\Shop.WinForm\bin\Debug\Shop.WinForm.exe
+D:\WinForms\Shop\Shop.WinForm\bin\Debug\Shop.WinForm.pdb
+D:\WinForms\Shop\Shop.WinForm\bin\Debug\EntityFramework.dll
+D:\WinForms\Shop\Shop.WinForm\bin\Debug\EntityFramework.SqlServer.dll
+D:\WinForms\Shop\Shop.WinForm\bin\Debug\EntityFramework.xml
+D:\WinForms\Shop\Shop.WinForm\bin\Debug\EntityFramework.SqlServer.xml
+D:\WinForms\Shop\Shop.WinForm\obj\Debug\Shop.WinForm.csprojResolveAssemblyReference.cache
+D:\WinForms\Shop\Shop.WinForm\obj\Debug\Shop.WinForm.Form1.resources
+D:\WinForms\Shop\Shop.WinForm\obj\Debug\Shop.WinForm.Properties.Resources.resources
+D:\WinForms\Shop\Shop.WinForm\obj\Debug\Shop.WinForm.csproj.GenerateResource.Cache
+D:\WinForms\Shop\Shop.WinForm\obj\Debug\Shop.WinForm.exe
+D:\WinForms\Shop\Shop.WinForm\obj\Debug\Shop.WinForm.pdb
+D:\WinForms\Shop\Shop.WinForm\bin\Debug\Shop.DataLayer.dll
+D:\WinForms\Shop\Shop.WinForm\bin\Debug\Shop.DataLayer.pdb
+M:\WinForms\lesson 4\vasilenko_project\Shop\Shop.WinForm\bin\Debug\Shop.WinForm.exe.config
+M:\WinForms\lesson 4\vasilenko_project\Shop\Shop.WinForm\obj\Debug\Shop.WinForm.exe
+M:\WinForms\lesson 4\vasilenko_project\Shop\Shop.WinForm\obj\Debug\Shop.WinForm.pdb
+M:\WinForms\lesson 4\vasilenko_project\Shop\Shop.WinForm\bin\Debug\Shop.WinForm.exe
+M:\WinForms\lesson 4\vasilenko_project\Shop\Shop.WinForm\bin\Debug\Shop.WinForm.pdb
+M:\WinForms\lesson 4\vasilenko_project\Shop\Shop.WinForm\bin\Debug\EntityFramework.dll
+M:\WinForms\lesson 4\vasilenko_project\Shop\Shop.WinForm\bin\Debug\EntityFramework.SqlServer.dll
+M:\WinForms\lesson 4\vasilenko_project\Shop\Shop.WinForm\bin\Debug\Shop.DataLayer.dll
+M:\WinForms\lesson 4\vasilenko_project\Shop\Shop.WinForm\bin\Debug\Shop.DataLayer.pdb
+M:\WinForms\lesson 4\vasilenko_project\Shop\Shop.WinForm\bin\Debug\EntityFramework.xml
+M:\WinForms\lesson 4\vasilenko_project\Shop\Shop.WinForm\bin\Debug\EntityFramework.SqlServer.xml
+M:\WinForms\lesson 4\vasilenko_project\Shop\Shop.WinForm\obj\Debug\Shop.WinForm.csprojResolveAssemblyReference.cache
+M:\WinForms\lesson 4\vasilenko_project\Shop\Shop.WinForm\obj\Debug\Shop.WinForm.Form1.resources
+M:\WinForms\lesson 4\vasilenko_project\Shop\Shop.WinForm\obj\Debug\Shop.WinForm.Properties.Resources.resources
+M:\WinForms\lesson 4\vasilenko_project\Shop\Shop.WinForm\obj\Debug\Shop.WinForm.csproj.GenerateResource.Cache
+D:\ado.net\vasilenko_project\Shop\Shop.WinForm\bin\Debug\Shop.WinForm.exe.config
+D:\ado.net\vasilenko_project\Shop\Shop.WinForm\obj\Debug\Shop.WinForm.exe
+D:\ado.net\vasilenko_project\Shop\Shop.WinForm\obj\Debug\Shop.WinForm.pdb
+D:\ado.net\vasilenko_project\Shop\Shop.WinForm\bin\Debug\Shop.WinForm.exe
+D:\ado.net\vasilenko_project\Shop\Shop.WinForm\bin\Debug\Shop.WinForm.pdb
+D:\ado.net\vasilenko_project\Shop\Shop.WinForm\bin\Debug\EntityFramework.dll
+D:\ado.net\vasilenko_project\Shop\Shop.WinForm\bin\Debug\EntityFramework.SqlServer.dll
+D:\ado.net\vasilenko_project\Shop\Shop.WinForm\bin\Debug\Shop.DataLayer.dll
+D:\ado.net\vasilenko_project\Shop\Shop.WinForm\bin\Debug\Shop.DataLayer.pdb
+D:\ado.net\vasilenko_project\Shop\Shop.WinForm\bin\Debug\EntityFramework.xml
+D:\ado.net\vasilenko_project\Shop\Shop.WinForm\bin\Debug\EntityFramework.SqlServer.xml
+D:\ado.net\vasilenko_project\Shop\Shop.WinForm\obj\Debug\Shop.WinForm.csprojResolveAssemblyReference.cache
+D:\ado.net\vasilenko_project\Shop\Shop.WinForm\obj\Debug\Shop.WinForm.Form1.resources
+D:\ado.net\vasilenko_project\Shop\Shop.WinForm\obj\Debug\Shop.WinForm.Properties.Resources.resources
+D:\ado.net\vasilenko_project\Shop\Shop.WinForm\obj\Debug\Shop.WinForm.csproj.GenerateResource.Cache
+D:\ado.net\vasilenko_project\Shop\Shop.WinForm\obj\Debug\Shop.WinForm.Login.resources
+D:\ado.net\vasilenko_project\Shop\Shop.WinForm\obj\Debug\Shop.WinForm.FrmEditPhoto.resources

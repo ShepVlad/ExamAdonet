@@ -1,0 +1,30 @@
+D:\WinForms\Shop\Shop.DataLayer\bin\Debug\Shop.DataLayer.dll.config
+D:\WinForms\Shop\Shop.DataLayer\bin\Debug\Shop.DataLayer.dll
+D:\WinForms\Shop\Shop.DataLayer\bin\Debug\Shop.DataLayer.pdb
+D:\WinForms\Shop\Shop.DataLayer\bin\Debug\EntityFramework.dll
+D:\WinForms\Shop\Shop.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\WinForms\Shop\Shop.DataLayer\bin\Debug\EntityFramework.xml
+D:\WinForms\Shop\Shop.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\WinForms\Shop\Shop.DataLayer\obj\Debug\Shop.DataLayer.csprojResolveAssemblyReference.cache
+D:\WinForms\Shop\Shop.DataLayer\obj\Debug\Shop.DataLayer.dll
+D:\WinForms\Shop\Shop.DataLayer\obj\Debug\Shop.DataLayer.pdb
+M:\WinForms\lesson 4\vasilenko_project\Shop\Shop.DataLayer\bin\Debug\Shop.DataLayer.dll.config
+M:\WinForms\lesson 4\vasilenko_project\Shop\Shop.DataLayer\bin\Debug\Shop.DataLayer.dll
+M:\WinForms\lesson 4\vasilenko_project\Shop\Shop.DataLayer\bin\Debug\Shop.DataLayer.pdb
+M:\WinForms\lesson 4\vasilenko_project\Shop\Shop.DataLayer\bin\Debug\EntityFramework.dll
+M:\WinForms\lesson 4\vasilenko_project\Shop\Shop.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+M:\WinForms\lesson 4\vasilenko_project\Shop\Shop.DataLayer\bin\Debug\EntityFramework.xml
+M:\WinForms\lesson 4\vasilenko_project\Shop\Shop.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+M:\WinForms\lesson 4\vasilenko_project\Shop\Shop.DataLayer\obj\Debug\Shop.DataLayer.csprojResolveAssemblyReference.cache
+M:\WinForms\lesson 4\vasilenko_project\Shop\Shop.DataLayer\obj\Debug\Shop.DataLayer.dll
+M:\WinForms\lesson 4\vasilenko_project\Shop\Shop.DataLayer\obj\Debug\Shop.DataLayer.pdb
+D:\ado.net\vasilenko_project\Shop\Shop.DataLayer\bin\Debug\Shop.DataLayer.dll.config
+D:\ado.net\vasilenko_project\Shop\Shop.DataLayer\bin\Debug\Shop.DataLayer.dll
+D:\ado.net\vasilenko_project\Shop\Shop.DataLayer\bin\Debug\Shop.DataLayer.pdb
+D:\ado.net\vasilenko_project\Shop\Shop.DataLayer\bin\Debug\EntityFramework.dll
+D:\ado.net\vasilenko_project\Shop\Shop.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\ado.net\vasilenko_project\Shop\Shop.DataLayer\bin\Debug\EntityFramework.xml
+D:\ado.net\vasilenko_project\Shop\Shop.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\ado.net\vasilenko_project\Shop\Shop.DataLayer\obj\Debug\Shop.DataLayer.csprojResolveAssemblyReference.cache
+D:\ado.net\vasilenko_project\Shop\Shop.DataLayer\obj\Debug\Shop.DataLayer.dll
+D:\ado.net\vasilenko_project\Shop\Shop.DataLayer\obj\Debug\Shop.DataLayer.pdb

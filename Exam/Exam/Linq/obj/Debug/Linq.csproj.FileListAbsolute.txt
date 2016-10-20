@@ -1,0 +1,6 @@
+C:\Users\student.STEP\Desktop\Exam\Exam\Linq\bin\Debug\Linq.exe.config
+C:\Users\student.STEP\Desktop\Exam\Exam\Linq\bin\Debug\Linq.exe
+C:\Users\student.STEP\Desktop\Exam\Exam\Linq\bin\Debug\Linq.pdb
+C:\Users\student.STEP\Desktop\Exam\Exam\Linq\obj\Debug\Linq.csprojResolveAssemblyReference.cache
+C:\Users\student.STEP\Desktop\Exam\Exam\Linq\obj\Debug\Linq.exe
+C:\Users\student.STEP\Desktop\Exam\Exam\Linq\obj\Debug\Linq.pdb
